@@ -1,9 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Sayyidul Luthfi
 
-NIM : 
-
+NIM : 607062400074
 ## Instruksi
 
 - Lakukan `git clone` repository ini ke komputer/laptop masing-masing.
